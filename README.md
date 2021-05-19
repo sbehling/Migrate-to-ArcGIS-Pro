@@ -17,7 +17,7 @@ This course will provide a hands-on introduction to ArcGIS Pro. Beginning with d
 
 ## Tentative schedule
 
-| Time | Topic  | Resources  
+| Time | Topic  | Exercise Data  
 |:--|:--|:--|
 | 20th, 10:30-10:45am  | Welcome and Introductions| |
 | 20th, 10:45am  | Terminology |  [Terminology Data](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Terminology.zip) |
