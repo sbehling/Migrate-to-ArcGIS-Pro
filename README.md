@@ -1,9 +1,6 @@
-# Migrate-to-ArcGIS-Pro
-May 2021 Workshop
-[![Gitter]
-# Coastal Migrate to ArcGIS Pro
+# Migrate to ArcGIS Pro Workshop 
 
-## Discussion and notes
+## Resources
 
 [Glossary file](https://github.com/si2-urssi/winterschool/blob/master/glossary.md)
 
@@ -18,15 +15,14 @@ Welcome to the repository for the Migrate to ArcGIS Pro Workshop! All instructio
 ## Tentative schedule
 
 | Time | Topic  | Resources  
-|:--|:--|:--|:--|
-| 20th, 10:30-10:45am  | [Welcome and introductions](http://inundata.org/talks/winter-school-intro/#/) |  |
-| 20th, 10:45am  | [Terminology](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf),<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) |  | Jeff, Andy, Kyle
-| 20th, 11:15am  | [User Interface](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf),<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) |  | Jeff, Andy, Kyle
-| 20th, 12:15pm  | [30 Minute Break]
-| 20th, 12:45pm  | [Vector vs. Raster Data](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf),<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) |  | Jeff, Andy, Kyle
-| 20th, 1:30pm  | [Selection](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf),<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) |  | Jeff, Andy, Kyle
-| 20th, 2:15pm  | [Wrap-up]
-| 21st, 10:30am | [Symbology for Vectors and Rasters](http://inundata.org/talks/git-collaboration/#/), [Git Exercises](https://jameshowison.github.io/peer_production_course/docs/additional_git_exercises.html), work time |  | Karthik & James
+|:--|:--|:--|
+| 20th, 10:30-10:45am  | Welcome and introductions| |
+| 20th, 10:45am  | [Terminology](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf) |  
+| 20th, 11:15am  | [User Interface](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf),<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) |  
+| 20th, 12:15pm  | [30 Minute Break] |
+| 20th, 12:45pm  | [Vector vs. Raster Data](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf),<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) | 
+| 20th, 1:30pm  | [Selection](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf),<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) | 
+| 21st, 10:30am | [Symbology for Vectors and Rasters](http://inundata.org/talks/git-collaboration/#/), [Git Exercises](https://jameshowison.github.io/peer_production_course/docs/additional_git_exercises.html), work time |
 | 21st, 11:15am  | [Cartography](https://kyleniemeyer.github.io/research-software-dev-modules/module-testing-ci/), work time |  | Kyle
 | 21st, 12:15pm | [Break](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-PeerCodeReview.pdf), work time | | Jeff
 | 21st, 12:45pm| [Editing](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/), [Documentation](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) |  | Kyle, James
