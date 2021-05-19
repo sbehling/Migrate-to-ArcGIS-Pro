@@ -1,14 +1,17 @@
 # Migrate to ArcGIS Pro Workshop 
 
+## Introduction
+
+This course will provide a hands-on introduction to ArcGIS Pro. Beginning with discussions and demonstrations of the software the course will quickly proceed into a series of exercises providing an introduction to a wide array of commonly used GIS operations and functions.
+
 ## Resources
 
-[Glossary file](https://github.com/si2-urssi/winterschool/blob/master/glossary.md)
-
-[Resources file with links](https://github.com/si2-urssi/winterschool/blob/master/resources.md)
+[Glossary file](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Glossary.pdf)
+[Virtual classroom tips and instructions] (
 
 ---
 
-May 20-21, Through Zoom
+May 20-21, Through [Zoom](https://blm.zoomgov.com/j/1604904934?pwd=ZDFaZUJkdHNsSGlZZ2lpTW9UZC8xdz09)
 
 Welcome to the repository for the Migrate to ArcGIS Pro Workshop! All instructions will be virtual through Zoom.
 
@@ -17,17 +20,17 @@ Welcome to the repository for the Migrate to ArcGIS Pro Workshop! All instructio
 | Time | Topic  | Resources  
 |:--|:--|:--|
 | 20th, 10:30-10:45am  | Welcome and introductions| |
-| 20th, 10:45am  | [Terminology](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf) |  
+| 20th, 10:45am  | [Terminology](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf) |  [Terminology Data] (https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Terminology.zip) 
 | 20th, 11:15am  | [User Interface](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf),<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) |  
 | 20th, 12:15pm  | [30 Minute Break] |
 | 20th, 12:45pm  | [Vector vs. Raster Data](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf),<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) | 
 | 20th, 1:30pm  | [Selection](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-Design.pdf),<br/>[Think Like A Programmer](https://docs.google.com/presentation/d/1eNpMYEyS2x92P2r94pWwykfHSS2KaRHxzRsRN85WFh0/edit?usp=sharing)<br/>[Structuring Python packages](https://kyleniemeyer.github.io/research-software-dev-modules/module-packaging/) | 
 | 21st, 10:30am | [Symbology for Vectors and Rasters](http://inundata.org/talks/git-collaboration/#/), [Git Exercises](https://jameshowison.github.io/peer_production_course/docs/additional_git_exercises.html), work time |
-| 21st, 11:15am  | [Cartography](https://kyleniemeyer.github.io/research-software-dev-modules/module-testing-ci/), work time |  | Kyle
-| 21st, 12:15pm | [Break](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-PeerCodeReview.pdf), work time | | Jeff
-| 21st, 12:45pm| [Editing](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/), [Documentation](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) |  | Kyle, James
-| 21st, 1:45pm| [3D Scenes](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/), [Documentation](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) |  | Kyle, James
-| 21st, 2:15pm| [Additional Resources](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/), [Documentation](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) |  | Kyle, James
+| 21st, 11:15am  | [Cartography](https://kyleniemeyer.github.io/research-software-dev-modules/module-testing-ci/), work time | 
+| 21st, 12:15pm | [Break](http://carver.cs.ua.edu/Slides/2019/URSSI-WinterSchool/URSSI-WinterSchool-PeerCodeReview.pdf), work time | 
+| 21st, 12:45pm| [Editing](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/), [Documentation](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) |  
+| 21st, 1:45pm| [3D Scenes](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/), [Documentation](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) |  
+| 21st, 2:15pm| [Additional Resources](https://kyleniemeyer.github.io/research-software-dev-modules/module-open-science/), [Documentation](https://kyleniemeyer.github.io/research-software-dev-modules/module-documentation/) | 
 | 21st, 2:30pm| [Wrap-up & Feedback]
 
 
