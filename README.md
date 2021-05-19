@@ -48,7 +48,7 @@ Your instructor will use ArcGIS Pro version 2.7, but versions 2.5-2.8 will be ab
 
 ## Sessions
 
-Most sessions will consist of a short introductory lecture followed by a demo, which you are welcome and encouraged to follow along click-by-click on your own screen.
+Most sessions will consist of a short introductory lecture followed by a demo, then some time for you to work through an exercise on your own.
 
 ## Feedback 
 
