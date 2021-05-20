@@ -11,8 +11,6 @@ This course will provide a hands-on introduction to ArcGIS Pro. Beginning with d
 
 [Glossary file](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Glossary.pdf)
 
-[Virtual classroom tips and instructions](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/1730-71%20Classroom%20Instructions.docx)
-
 ---
 
 ## Tentative schedule
