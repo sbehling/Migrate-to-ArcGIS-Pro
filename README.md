@@ -1,5 +1,5 @@
 # Transition to ArcGIS Pro Workshop 
-## May 20-21, Through [Zoom](https://blm.zoomgov.com/j/1604904934?pwd=ZDFaZUJkdHNsSGlZZ2lpTW9UZC8xdz09)
+## May 20-21, Through [Zoom](https://ucsc.zoom.us/j/93262153150?pwd=TmdBUjF0eUttVm84SkN4c3IvcWp3QT09)
 
 Welcome to the repository for the Migrate to ArcGIS Pro Workshop! All instructions will be virtually delivered through Zoom.
 
