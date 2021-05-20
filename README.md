@@ -21,13 +21,13 @@ This course will provide a hands-on introduction to ArcGIS Pro. Beginning with d
 | 20th, 10:45am  | Terminology | |
 | 20th, 11:15am  | User Interface | [User Interface Data](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/User-Interface.zip) |
 | 20th, 12:15pm  | 30-Minute Break |
-| 20th, 12:45pm  | [Vector vs. Raster Data](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Spatial_Data_Formats.pdf) | [Spatial Format Data](https://drive.google.com/file/d/1drz70U8axcxTmPWNGW2VWpZHpfXKtX_T/view?usp=sharing)
+| 20th, 12:45pm  | [Vector vs. Raster Data](https://github.com/sbehling/Transition-to-ArcGIS-Pro/blob/main/Spatial_Data_Formats.pdf) | [Spatial Format Data](https://drive.google.com/file/d/1drz70U8axcxTmPWNGW2VWpZHpfXKtX_T/view?usp=sharing)
 | 20th, 1:30pm  | [Selection](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Selections.pdf) | [Selection Data](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Selections_Project.zip)
-| 21st, 10:30am | [Symbology for Vectors and Rasters](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Symbology.pdf) | [Symbology Data](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Selections_Project.zip)
+| 21st, 10:30am | [Symbology for Vectors and Rasters](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Symbology.pdf) | [Symbology Data](https://github.com/sbehling/Transition-to-ArcGIS-Pro/blob/main/Symbology_Project.zip)
 | 21st, 11:15am  | [Cartography](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Cartography.pdf) | [Cartography Data](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Cartography_Project.zip) |
 | 21st, 12:15pm | Break | 
-| 21st, 12:45pm| [Editing](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Editing_and_Coordinate_Systems.pdf) | [Editing Data](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Editing_and_Coordinate_Systems.pdf)  
-| 21st, 1:45pm| [3D Scenes]() | [3D Scenes Data]() |  
+| 21st, 12:45pm| [Editing](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Editing_and_Coordinate_Systems.pdf) | [Editing Data](https://github.com/sbehling/Transition-to-ArcGIS-Pro/blob/main/Editing.zip)  
+| 21st, 1:45pm| 3D Scenes (to be posted tomorrow) | 3D Scenes Data |  
 | 21st, 2:15pm| Wrap-up & Feedback
 
 
