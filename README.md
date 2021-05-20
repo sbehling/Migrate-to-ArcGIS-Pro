@@ -10,7 +10,9 @@ This course will provide a hands-on introduction to ArcGIS Pro. Beginning with d
 ## Resources
 
 [Glossary file](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Glossary.pdf)
+
 [Keyboard shortcuts](https://pro.arcgis.com/en/pro-app/latest/get-started/arcgis-pro-keyboard-shortcuts.htm)
+
 [Requests for additional topics for 5/21](https://docs.google.com/spreadsheets/d/1nFntgTTkqRT2_dDyuRQHr1GoXjctwkTQHi3uZJP1C4s/edit?usp=sharing)
 
 ---
