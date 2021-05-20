@@ -30,7 +30,7 @@ This course will provide a hands-on introduction to ArcGIS Pro. Beginning with d
 | 21st, 12:15pm | Break | 
 | 21st, 12:45pm| [Editing](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Editing_and_Coordinate_Systems.pdf) | [Editing Data](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Editing_and_Coordinate_Systems.pdf)  
 | 21st, 1:45pm| [3D Scenes]() | [3D Scenes Data]() |  
-| 21st, 2:15pm| [Wrap-up & Feedback]
+| 21st, 2:15pm| Wrap-up & Feedback
 
 
 Each morning and afternoon session will be split up with a short 5-break between sessions. 
@@ -49,7 +49,3 @@ Your instructor will use ArcGIS Pro version 2.7, but versions 2.5-2.8 will be ab
 ## Sessions
 
 Most sessions will consist of a short introductory lecture followed by a demo, then some time for you to work through an exercise on your own.
-
-## Feedback 
-
-[Post-workshop survey](https://docs.google.com/forms/d/e/1FAIpQLSfPl1p4O6D6GKR2sw6rhx1SsLskC-8vFg84krK2924l5vlg-g/viewform?usp=sf_link)
