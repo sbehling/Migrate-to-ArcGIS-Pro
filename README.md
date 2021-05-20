@@ -18,7 +18,7 @@ This course will provide a hands-on introduction to ArcGIS Pro. Beginning with d
 | Time | Topic  | Exercise Data  
 |:--|:--|:--|
 | 20th, 10:30-10:45am  | Welcome and Introductions| |
-| 20th, 10:45am  | Terminology | |
+| 20th, 10:45am  | [Terminology[(https://github.com/sbehling/Transition-to-ArcGIS-Pro/blob/main/Terminology.pdf) | |
 | 20th, 11:15am  | User Interface | [User Interface Data](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/User-Interface.zip) |
 | 20th, 12:15pm  | 30-Minute Break |
 | 20th, 12:45pm  | [Vector vs. Raster Data](https://github.com/sbehling/Transition-to-ArcGIS-Pro/blob/main/Spatial_Data_Formats.pdf) | [Spatial Format Data](https://drive.google.com/file/d/1drz70U8axcxTmPWNGW2VWpZHpfXKtX_T/view?usp=sharing)
