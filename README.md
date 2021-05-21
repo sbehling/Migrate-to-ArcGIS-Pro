@@ -15,7 +15,11 @@ This course will provide a hands-on introduction to ArcGIS Pro. Beginning with d
 
 [Requests for additional topics for 5/21](https://docs.google.com/spreadsheets/d/1nFntgTTkqRT2_dDyuRQHr1GoXjctwkTQHi3uZJP1C4s/edit?usp=sharing)
 
-[Industry Styles] (https://esri-styles.maps.arcgis.com/home/group.html?id=2625fd75429048c28236e6e84281d450&view=grid&showFilters=false&sortField=modified&sortOrder=desc#content)
+[Industry Styles](https://esri-styles.maps.arcgis.com/home/group.html?id=2625fd75429048c28236e6e84281d450&view=grid&showFilters=false&sortField=modified&sortOrder=desc#content)
+
+[ArcGIS Online in 10 minutes](https://learn.arcgis.com/en/paths/try-arcgis-online/)
+
+[Adobe color](https://color.adobe.com/mythemes#)
 
 ---
 
