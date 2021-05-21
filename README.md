@@ -19,7 +19,7 @@ This course will provide a hands-on introduction to ArcGIS Pro. Beginning with d
 
 [ArcGIS Online in 10 minutes](https://learn.arcgis.com/en/paths/try-arcgis-online/)
 
-[Adobe color](https://color.adobe.com/mythemes#)
+[Adobe Color](https://color.adobe.com/mythemes#)
 
 ---
 
