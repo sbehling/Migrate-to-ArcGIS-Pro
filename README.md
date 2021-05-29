@@ -47,7 +47,7 @@ This course will provide a hands-on introduction to ArcGIS Pro. Beginning with d
 | 21st, 11:15am  | [Cartography](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Cartography.pdf) | [Cartography Data](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Cartography_Project.zip) |
 | 21st, 12:15pm | Break | 
 | 21st, 12:45pm| [Editing](https://github.com/sbehling/Migrate-to-ArcGIS-Pro/blob/main/Editing_and_Coordinate_Systems.pdf) | [Editing Data](https://github.com/sbehling/Transition-to-ArcGIS-Pro/blob/main/Editing.zip)  
-| 21st, 1:45pm| [3D Scenes](https://pro.arcgis.com/en/pro-app/latest/help/mapping/map-authoring/scenes.htm) | 3D Scenes Data |  
+| 21st, 1:45pm| [3D Scenes](https://pro.arcgis.com/en/pro-app/latest/help/mapping/map-authoring/scenes.htm) ||  
 | 21st, 2:15pm| Wrap-up & Feedback
 
 
