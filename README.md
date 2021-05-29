@@ -24,8 +24,11 @@ This course will provide a hands-on introduction to ArcGIS Pro. Beginning with d
 [Opening .mxd in ArcGIS Pro](https://github.com/sbehling/Transition-to-ArcGIS-Pro/blob/main/Importing%20ArcMap.pdf)
 
 [Symbology slides](https://github.com/sbehling/Transition-to-ArcGIS-Pro/blob/main/Slides%20Symbology.pdf)
+
 [Terminology slides](https://github.com/sbehling/Transition-to-ArcGIS-Pro/blob/main/Slides%20Terminology.pdf)
+
 [User Interface slides](https://github.com/sbehling/Transition-to-ArcGIS-Pro/blob/main/Slides%20Terminology.pdf)
+
 [Spatial Data & Data types slides](https://github.com/sbehling/Transition-to-ArcGIS-Pro/blob/main/Slides%20Spatial%20Data%20%26%20Data%20Models.pdf)
 
 ---
